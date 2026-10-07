@@ -1,0 +1,18 @@
+Sorting :
+    -> why do we need Sorting
+        -> easy access / retrive
+        -> Time will be less
+    -> What is sorting 
+        -> arranging the data in a particular order
+    ->Types
+        -> Bubble Sort 
+            -> take a value
+            -> compare with neighbour
+            -> if asc, find the max and keep it
+            -> if desc, fing the min and keep it
+        -> Selection Sort
+            -> you are going to select a value and swap it
+            -> if you find min -> swap with first
+            -> if you find max -> swap with last
+        -> Insertion Sort
+             -> get one value from array
